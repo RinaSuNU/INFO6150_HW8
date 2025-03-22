@@ -28,7 +28,7 @@ MongoDB: Installed and running locally or remotely
 //start MongoDB
 >mongosh
 4. Run the program:
->node serve.js
+>node server.js
 5. Access Swagger Documentation:
 Visit http://localhost:8888/api-docs in your browser.</pre>
 
